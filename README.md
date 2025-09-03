@@ -12,7 +12,7 @@ It leverages transaction and customer data from a SQL database to monitor and an
 
 The dashboard provides stakeholders with actionable insights to support data-driven decision-making.
 
-##Tech Stack
+## Tech Stack
 
 Power BI Desktop – for building and visualizing dashboards.
 
