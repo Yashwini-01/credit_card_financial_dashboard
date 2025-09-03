@@ -40,6 +40,7 @@ Blue Card: $47.1M revenue (dominates portfolio with ~83% share).
 Silver Card: $5.6M revenue.
 Gold Card: $2.5M revenue.
 Platinum Card: $1.1M revenue.
+
 -> Blue Card is the most profitable product line.
 
 ## Expenditure & Channel Insights
