@@ -1,5 +1,4 @@
 # credit_card_financial_dashboard
-power bi dashboard 
 
 ## Credit Card Financial Dashboard
 
